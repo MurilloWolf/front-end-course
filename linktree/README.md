@@ -1,4 +1,4 @@
-<img src="./src/assets/linktree_bg.png" heigth="300px " width="900" alt="background" />
+<img src="./src/assets/linktree_bg.png" heigth="300px " width="1024" alt="background" />
 
 # Linktree clone - React Props
 
